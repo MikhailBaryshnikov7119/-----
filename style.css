@@ -1,0 +1,135 @@
+body {
+  height: 5000px;
+  background-color: rgb(36, 24, 65);
+}
+
+.base {
+  position: absolute;
+  width: 47px;
+  height: 38px;
+  left: 317px;
+  top: 49px;
+
+  /* Type@25 */
+
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 150%;
+  /* identical to box height, or 38px */
+
+  color: #ffffff;
+}
+
+.Thebeauty {
+  /* The beauty of every NFT */
+
+  position: absolute;
+  width: 367px;
+  height: 137px;
+  left: 261px;
+  top: 209px;
+
+  /* Type@61 */
+
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 61px;
+  line-height: 120%;
+  /* or 73px */
+
+  color: #f8f6fa;
+}
+
+.mainimg {
+  /* EtE1ZvRXYAoSqoz-removebg 1 */
+
+  position: absolute;
+  width: 574px;
+  height: 710px;
+  left: 840px;
+  top: 179px;
+
+  background: url(EtE1ZvRXYAoSqoz-removebg.png);
+}
+
+.ellipse1 {
+  /* Ellipse 133 */
+
+  position: absolute;
+  width: 552px;
+  height: 553px;
+  left: 832px;
+  top: 147px;
+  border-radius: 50%;
+  z-index: -1;
+
+  background: linear-gradient(
+    89.96deg,
+    #cb47a0 0.02%,
+    #6947cb 49.47%,
+    #00ff85 99.97%
+  );
+}
+
+.ellipse2 {
+  /* Ellipse 131 */
+
+  position: absolute;
+  width: 670px;
+  height: 671px;
+  left: 773px;
+  top: 88px;
+  border-radius: 50%;
+  z-index: -1;
+
+  background: linear-gradient(
+    89.96deg,
+    #cb47a0 0.02%,
+    #6947cb 49.47%,
+    #00ff85 99.97%
+  );
+  opacity: 0.2;
+}
+
+.ellipse3 {
+  /* Ellipse 134 */
+
+  position: absolute;
+  width: 802px;
+  height: 793px;
+  left: 707px;
+  top: 27px;
+  border-radius: 50%;
+  z-index: -1;
+
+  background: linear-gradient(
+    89.96deg,
+    #cb47a0 0.02%,
+    #6947cb 49.47%,
+    #00ff85 99.97%
+  );
+  opacity: 0.1;
+}
+
+.ellipse4 {
+  /* Ellipse 135 */
+
+  position: absolute;
+  width: 942px;
+  height: 931px;
+  left: 637px;
+  top: -42px;
+  border-radius: 50%;
+  z-index: -1;
+
+  background: linear-gradient(
+    89.96deg,
+    rgba(203, 71, 160, 0.4) 0.02%,
+    rgba(105, 71, 203, 0.4) 49.47%,
+    rgba(0, 255, 133, 0.4) 99.97%
+  );
+  opacity: 0.1;
+}
