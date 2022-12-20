@@ -1,0 +1,55 @@
+/* HEADER */
+
+header {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  margin-right: 150px;
+}
+
+.headermenu {
+  width: 490px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #f8f6fa;
+}
+.home {
+}
+.feature {
+  color: rgb(134, 134, 134);
+}
+.contact {
+  color: rgb(134, 134, 134);
+}
+.product {
+  color: rgb(134, 134, 134);
+}
+.bildnow {
+  text-align: center;
+  line-height: 56px;
+  width: 160px;
+  height: 56px;
+  background: linear-gradient(97.62deg, #eb11aa -15.99%, #2e81e2 104.3%);
+  border-radius: 2px;
+}
+
+.title {
+  display: flex;
+  justify-content: space-around;
+  column-gap: 10px;
+}
+.base {
+  width: 47px;
+  height: 38px;
+  font-family: "Oswald";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 25px;
+  line-height: 150%;
+  color: #ffffff;
+}
